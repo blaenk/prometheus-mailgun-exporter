@@ -1,4 +1,4 @@
-module mailgun-exporter
+module github.com/blaenk/prometheus-mailgun-exporter
 
 require (
 	github.com/alecthomas/units v0.0.0-20210208195552-ff826a37aa15 // indirect
